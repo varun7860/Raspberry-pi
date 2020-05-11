@@ -1,2 +1,2 @@
-# basics-with-rasberry-pie
+# basics-with-Raspberry-pi
 simple and easy projects on rasberry pie
